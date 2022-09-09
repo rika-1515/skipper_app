@@ -10,6 +10,8 @@ import "channels"
 import 'jquery'
 import "skippr.min"
 import "script.js"
+import "sample.js"
+import "scripts/sample.js"
 
 Rails.start()
 Turbolinks.start()
